@@ -36,7 +36,6 @@ Throughout the game, you’ll complete tasks, make choices, and battle Little Re
 1. Clone the repo:
    ```bash
    git clone https://github.com/jay-gleeson/CS175-Final-Project-Fall-2024.git
-   cd CS175-Final-Project-Fall-2024/CS175-Final-Project
    ```
 2. Open directory:
    ```bash
