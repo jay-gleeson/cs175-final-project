@@ -67,3 +67,7 @@ Final Boss Logic 💡: Designing a challenging but fair final boss battle requir
 Save/Load Functionality 💾: Add a feature to save progress and resume the game.
 
 File I/O 📝: Potential for saving progress.
+
+---
+
+Thank you for trying out *The Big Bad Riding Hood* 🐺 I hope you enjoy your adventure! 🌲
