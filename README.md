@@ -1,4 +1,5 @@
-# Twisted Fairy Tales: The Big Bad Riding Hood 🐺🌲
+# The Big Bad Riding Hood 🐺🌲
+A **TWISTED** retelling of a classic fairy tale: The Big Bad Riding Hood! 🍎⛺
 
 ## Description 📜
 
