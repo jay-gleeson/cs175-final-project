@@ -33,12 +33,27 @@ Throughout the game, you’ll complete tasks, make choices, and battle Little Re
 - **Standard Input/Output** ⌨️: Text-based interactions using the terminal.
 
 ## Installation & Running 🏗️
-
-1. Clone the repository:
+1. Clone the repo:
    ```bash
    git clone https://github.com/jay-gleeson/CS175-Final-Project-Fall-2024.git
    cd CS175-Final-Project-Fall-2024/CS175-Final-Project
+   ```
+2. Open directory:
+   ```bash
+   cd CS175-Final-Project-Fall-2024/CS175-Final-Project
+   ```
+3. Compile cpp:
 
+   A. Windows:
+      ```bash
+      g++ CS175-Final-Project.cpp -o RidingBad.exe
+      RidingBad.exe
+      ```
+   B. MacOS / Linux:
+      ```bash
+      g++ CS175-Final-Project.cpp -o ridingbad
+      ./ridingbad
+      ```
 ## Challenges ⚠️
 
 Story Structure 📚: Organizing the plot and ensuring logical flow as the player progresses through tasks.
