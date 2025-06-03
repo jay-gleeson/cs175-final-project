@@ -1,4 +1,4 @@
-// CS175-Final-Project.cpp : Final Project for CS175 called "The Big Bad Red Riding Hood". Game involving a "twist" on the Little Red Riding Hood story.
+// final-project.cpp : Final Project for CS175 called "The Big Bad Red Riding Hood". Game involving a "twist" on the Little Red Riding Hood story.
 //
 
 #include <iostream>

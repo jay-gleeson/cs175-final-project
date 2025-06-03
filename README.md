@@ -46,12 +46,12 @@ Throughout the game, you’ll complete tasks, make choices, and battle Little Re
 
    A. Windows:
       ```bash
-      g++ CS175-Final-Project.cpp -o RidingBad.exe
+      g++ final-project.cpp -o RidingBad.exe
       RidingBad.exe
       ```
    B. MacOS / Linux:
       ```bash
-      g++ CS175-Final-Project.cpp -o ridingbad
+      g++ final-project.cpp -o ridingbad
       ./ridingbad
       ```
 ## Challenges ⚠️
