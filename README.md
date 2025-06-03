@@ -68,6 +68,8 @@ Save/Load Functionality 💾: Add a feature to save progress and resume the game
 
 File I/O 📝: Potential for saving progress.
 
+Fix Comments 💬: Fix comments within cpp for better reproductability.
+
 ---
 
 Thank you for trying out *The Big Bad Riding Hood* 🐺 I hope you enjoy your adventure! 🌲
