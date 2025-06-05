@@ -36,22 +36,22 @@ Throughout the game, you’ll complete tasks, make choices, and battle Little Re
 ## Installation & Running 🏗️
 1. Clone the repo:
    ```bash
-   git clone https://github.com/jay-gleeson/CS175-Final-Project-Fall-2024.git
+   git clone https://github.com/jay-gleeson/cs175-final-project.git
    ```
 2. Open directory:
    ```bash
-   cd CS175-Final-Project-Fall-2024/CS175-Final-Project
+   cd cs175-final-project
    ```
 3. Compile cpp:
 
    A. Windows:
       ```bash
-      g++ final-project.cpp -o RidingBad.exe
-      RidingBad.exe
+      g++ MyFinalProject.cpp -o riding_bad.exe
+      riding_bad.exe
       ```
    B. MacOS / Linux:
       ```bash
-      g++ final-project.cpp -o ridingbad
+      g++ MyFinalProject.cpp -o ridingbad
       ./ridingbad
       ```
 ## Challenges ⚠️
