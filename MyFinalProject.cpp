@@ -199,7 +199,7 @@ int main()
     cout << "The landscape is surrounded by beautiful fields of luscious green and colorful flowers." << endl;
     cout << "You notice Riding Hood being a little too enticed by the flowers and begins falling a bit off the beaten path.\n" << endl;
 
-    cout << "She stumbles on a branch and leaves behind a bottle of red wine" << endl;
+    cout << "She stumbles on a branch and leaves behind a bottle of red wine." << endl;
     cout << "Do you pick it up? (y/n)\n" << endl;
     bool pickUpWine = getResponse();
 
@@ -350,7 +350,7 @@ int main()
 
     cout << "\"The better to eat you with, my dear.\" You reply.\n" << endl;
     
-    //divider 
+    // divider 
     divider(32);
 
     // FIGHT
