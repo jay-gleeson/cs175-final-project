@@ -1,3 +1,8 @@
+<div align="center">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/jay-gleeson/cs175-final-project">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white" alt="C++">
+</div>
+
 # The Big Bad Riding Hood 🐺🌲
 A **TWISTED** retelling of a classic fairy tale: The Big Bad Riding Hood! 🍎⛺
 
