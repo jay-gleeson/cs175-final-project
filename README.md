@@ -9,7 +9,7 @@ A C++ text adventure telling of Little Red Riding Hood, with a twist! 💥
 ## Description 📜
 This project is a text-based adventure game developed as part of my CS175 class. It is a reimagined version of the classic *Little Red Riding Hood* story, with a unique twist: you play as the wolf. The game follows the wolf’s mission to stop Little Red Riding Hood from reaching her grandmother’s house and carrying out her evil plot against Grandma.
 
-Throughout the game, you’ll complete tasks, make choices, and battle Little Red Riding Hood in a final showdown to save the day! 💥
+Throughout the game, you’ll complete tasks, make choices, and battle Little Red Riding Hood in a final showdown to save the day! 🎉
 
 ## Technologies Used 💻
 
